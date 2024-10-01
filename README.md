@@ -1,5 +1,5 @@
 # Hello, world! 👋
-<h3 align="center">About Me</h3>
+<h3 align="left">About Me</h3>
 <p>Welcome to my github profile, my name is Mharvic and I'm a Web Design & Development student at Southern Alberta Institute of Technology!</p>
 <br>
 <p>I am a designer with a passion for creating websites that are both aesthetically pleasing and functionally effective. My main focus is developing websites that are engaging and captivating to users. My experience in web design and development has given me a solid foundation in HTML, CSS, JavaScript.<br>
